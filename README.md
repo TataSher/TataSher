@@ -10,3 +10,21 @@
 </div>
  </p>
 
+__Skills__
+  - Object-Oriented Programming(OOP)
+  - Test-Driven Development(TDD)
+  - MVC pattern
+  - Debugging fundamentals
+  - Pair programming
+  - Agile/XP
+
+__Tools__
+  - **Languages:** Ruby, Javascript, HTML, CSS, SQL
+  - **Frameworks:** Ruby on Rails, React Native, Express
+  - **Testing Tools:** RSpec, Jasmine
+  - **Libraries:** React, Sinatra, JQuery
+  - **Database Systems:** MongoDB, Postgresql
+  - Expo
+  - Node.js
+  - APIs
+  - Heroku
