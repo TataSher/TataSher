@@ -13,7 +13,7 @@
 ## About Me
 
 Architect turned software engineer. Recently completed a full-stack software development boot camp at Makers Academy.
-A very creative, friendly, and curious creature. Love coming up with new ideas and making them come true with a bunch of amazing people.
+A very creative, friendly, and curious creature. Love coming up with new ideas and making them come to life with a bunch of amazing people.
 
 ## Skills
   - Object-Oriented Programming(OOP)
