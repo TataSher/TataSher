@@ -12,7 +12,7 @@
  
 ## About Me
 
-Architect turned software engineer. Recently completed a full-stack software development boot camp at Makers Academy.
+Architect turned software engineer. After completing a full-stack software development boot camp at Makers Academy started working at as a front-end software developer. 
 A very creative, friendly, and curious creature. Love coming up with new ideas and making them come to life with a bunch of amazing people.
 
 ## Skills
@@ -24,12 +24,11 @@ A very creative, friendly, and curious creature. Love coming up with new ideas a
   - Agile/XP
 
 ## Tools
-  - **Languages:** Ruby, Javascript, HTML, CSS, SQL
-  - **Frameworks:** Ruby on Rails, React Native, Express
+  - **Languages:** Javascript, HTML, CSS, SQL, Ruby
+  - **Frameworks:** Angular, React, Ruby on Rails, React Native, Express
   - **Testing Tools:** RSpec, Jasmine
-  - **Libraries:** React, Sinatra, JQuery
+  - **Libraries:** Leaflet, JQuery
   - **Database Systems:** MongoDB, Postgresql
   - Expo
   - Node.js
   - APIs
-  - Heroku
